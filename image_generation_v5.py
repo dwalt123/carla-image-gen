@@ -23,14 +23,8 @@ except IndexError:
 
 import carla
 import numpy as np
-import cv2
-import time
 from queue import Queue
 from queue import Empty
-
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
 
 '''
 		Generates Carla Image Data for (Offline) Algorithm Development

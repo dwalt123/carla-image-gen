@@ -79,19 +79,7 @@ import carla
 
 		----------------------------------------------------------------------------------------------------------------------------------
 '''
-'''params = {'carala_egg_path': '../../carla/dist/carla-*%d.%d-%s.egg',
-		  'vehicle_name': 'model3',
-		  'local_dir': 'Data/',
-		  'ground_truth_filename': 'gt',
-		  'fps': 10,
-		  'save_images': True,
-		  'maps': ['Town01'],
-		  'start_poses': [[0,0,0]],
-		  'num_cams': 1,
-		  'cam_names': ['camera_up'],
-		  'cam_rotations': [[0,0,0]],
-		  'cam_translations': [[4,0,1.4]],
-		  'cam_config': 'custom'}'''
+
 params = {'carala_egg_path': '../../carla/dist/carla-*%d.%d-%s.egg',
 		  'vehicle_name': 'model3',
 		  'local_dir': 'Data/',

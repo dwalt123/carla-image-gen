@@ -1,0 +1,7 @@
+Carla Vehicle Models:
+
+'model3','mustang','mkz2017','etron','t2','cybertruck',
+'century','omafiets','crossbike','ninja','yzf','prius',
+'patrol','cooperst','coupe','wrangler_rubicon','police',
+'c3','impala','carlacola','isetta','grandtourer','low_rider',
+'tt','a2','micra' 
